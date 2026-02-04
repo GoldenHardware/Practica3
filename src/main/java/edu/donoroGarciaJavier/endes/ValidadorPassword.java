@@ -5,8 +5,6 @@ public class ValidadorPassword {
     /**
      * Clase encargada de validar contraseñas.
      */
-    public class ValidadorPassword {
-
         /**
          * Valida una contraseña.
          * Reglas:
@@ -25,4 +23,3 @@ public class ValidadorPassword {
         }
     }
 
-}

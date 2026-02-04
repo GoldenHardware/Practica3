@@ -5,8 +5,6 @@ public class Calculadora {
     /**
      * Clase que realiza operaciones aritméticas básicas.
      */
-    public class Calculadora {
-
         /**
          * Suma dos números.
          */
@@ -40,4 +38,3 @@ public class Calculadora {
         }
     }
 
-}
