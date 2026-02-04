@@ -1,10 +1,5 @@
 package edu.donoroGarciaJavier.endes;
 
-public class ConversorTemperatura {
-
-    /**
-     * Clase para convertir temperaturas.
-     */
     public class ConversorTemperatura {
 
         /**
